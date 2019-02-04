@@ -4,7 +4,7 @@
     "newtab": "html/refresh.html"
   },
   "description": "I got tired of the default new tab page on Chrome and the shitty extensions on the webstore.",
-  "homepage_url": "https://weboas.is",
+  "homepage_url": "https://github.com/l-t-s/new-oasis",
   "icons": {
     "128": "images/icon128.png",
     "16": "images/icon16.png",
@@ -14,6 +14,6 @@
     "64": "images/icon64.png"
   },
   "manifest_version": 2,
-  "name": "weboasis-pls",
+  "name": "New Oasis",
   "version": "1.0.0"
 }
