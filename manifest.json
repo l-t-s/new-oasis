@@ -1,9 +1,9 @@
 {
-  "author": "lts",
+  "author": "L. T. S.",
   "chrome_url_overrides": {
     "newtab": "html/refresh.html"
   },
-  "description": "I got tired of the default new tab page on Chrome and the shitty extensions on the webstore.",
+  "description": "I got tired of the default New Tab page on Chrome and the bad extensions on the Web Store.",
   "homepage_url": "https://github.com/l-t-s/new-oasis",
   "icons": {
     "128": "images/icon128.png",

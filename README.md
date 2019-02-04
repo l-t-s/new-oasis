@@ -1,6 +1,6 @@
 # new-oasis
 
->I got tired of the default new tab page on [Chrome] and the shitty extensions on the webstore.
+>I got tired of the default [New Tab] page on [Chrome] and the bad extensions on the Web Store.
 
 This [Chrome] extension is supposed to make your **[New Tab]** page into **<https://weboas.is>**, because it lists a lot of useful resources and works as a kind of starting page for searching the web.  
 The reason why I must make an extension for this is because **[Chrome] currently DOES NOT allow for you to choose your own [New Tab] page**. *There is no setting for it.*  
