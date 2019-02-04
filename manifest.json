@@ -1,11 +1,5 @@
 {
   "author": "lts",
-  "chrome_settings_overrides": {
-    "homepage": "https://weboas.is",
-    "startup_pages": [
-      "https://weboas.is"
-    ]
-  },
   "chrome_url_overrides": {
     "newtab": "html/refresh.html"
   },
