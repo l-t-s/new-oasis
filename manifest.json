@@ -1,0 +1,25 @@
+{
+  "author": "lts",
+  "chrome_settings_overrides": {
+    "homepage": "https://weboas.is",
+    "startup_pages": [
+      "https://weboas.is"
+    ]
+  },
+  "chrome_url_overrides": {
+    "newtab": "html/refresh.html"
+  },
+  "description": "I got tired of the default new tab page on Chrome and the shitty extensions on the webstore.",
+  "homepage_url": "https://weboas.is",
+  "icons": {
+    "128": "images/icon128.png",
+    "16": "images/icon16.png",
+    "24": "images/icon24.png",
+    "32": "images/icon32.png",
+    "48": "images/icon48.png",
+    "64": "images/icon64.png"
+  },
+  "manifest_version": 2,
+  "name": "weboasis-pls",
+  "version": "1.0.0"
+}
