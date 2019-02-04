@@ -16,7 +16,7 @@ Sadly I cannot set [Weboasis] as the [New Tab] page directly, extension packager
 ## Links
 
 - [<img src="https://raw.githubusercontent.com/l-t-s/new-oasis/master/images/icon16.png" alt="Weboasis Logo" height="16"> Weboasis](https://weboas.is)
-- [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png" alt="Chrome Web Store Logo" height="16"> Chrome Web Store](https://chrome.google.com/webstore/)
+- [<img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_206x58.png" alt="Chrome Web Store Logo" height="16"> Chrome Web Store](https://chrome.google.com/webstore/detail/new-oasis/fbhknamebagjckhlmkhcnnjgkaghille)
 - [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" height="16"> GitHub Repository](https://github.com/l-t-s/new-oasis)
 
 
